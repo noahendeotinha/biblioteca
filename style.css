@@ -23,7 +23,9 @@ body {
   align-items: center;
   padding: 1rem;
 }
-.logo span { color: #0077ff; }
+.logo span { color: #0077ff; 
+  text-decoration: none;
+}
 .nav-links { display: flex; gap:1rem; }
 .nav-links a { padding: .5rem 1rem; border-radius:5px; }
 .nav-links a:hover { background: #eaeaea; }
@@ -32,6 +34,7 @@ body {
   flex-direction: column;
   gap: 4px;
   cursor: pointer;
+  text-decoration: none;
 }
 .hamburger span {
   width: 25px; height: 3px; background: #333;
