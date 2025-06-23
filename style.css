@@ -6,10 +6,10 @@
 body {
   font-family: Arial, sans-serif;
   background: #315237;
-  color: #a4d38d;
+  color: #000000;
 }
 .header {
-  background: #fff;
+  background: #2a442e;
   position: sticky;
   top: 0;
   z-index: 10;
